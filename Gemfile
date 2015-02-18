@@ -7,8 +7,7 @@ gem "middleman", "~>3.1.6"
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
 
-gem "middleman-gh-pages", :git => "git@github.com:neo/middleman-gh-pages.git"
-
+gem "middleman-gh-pages"
 gem "zurb-foundation"
 
 # For faster file watcher updates on Windows:

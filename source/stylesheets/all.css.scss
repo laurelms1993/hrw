@@ -74,4 +74,23 @@ body {
 #content {
   @include grid-column(12);
   color: #383140;
+  margin-bottom: 200px;
+}
+
+#title {
+  color: #383140;
+  text-shadow: 0px 1px 3px #84649E;
+  font-size: 2em;
+  
+}
+p {
+
+  a{ color: #1b96bb;}
+  a:hover{ color: #0b86ab;}
+}
+#category{
+  font-size:1.8em;
+}
+#subcategory {
+    font-weight:600;
 }
